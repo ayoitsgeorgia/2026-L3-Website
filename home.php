@@ -1,33 +1,28 @@
 <div class = "box main">
     <div class="info-text">
 
-        <h2>Creative Commons - The Mission!</h2>
+        <h2>Dog Breeds 🐶 </h2>
 
     <p>
-        Creative Commons gives content creators and consumers a way to share works without needing to grant permission for work to be used each time.
+     Looking for a dog? What breed suits you best? Here you can learn about three of the world's most popular dog breeds: the Golden Retriever, German Shepherd, and Border Collie!
     </p>
 
     <p>
-        The goal of creative commons is to "overcome legal obstacles to the sharing of knowledge and creativity to address the world’s pressing challenges".  You can learn more about <a href="https://creativecommons.org/">Creative Commons</a> at the preceding link.
+        The goal is to provide helpful and easy-to-understand information about each breed, including their personality, exercise needs, grooming, training, and common health concerns. Whether you're thinking about getting a dog or simply love learning about them, you'll find useful information here. </p>
     </p>
 
     <p>
-        It is easy to <a href="https://creativecommons.org/share-your-work">share your work</a> by choosing a suitable license and then putting the license information on the work.  Standard abbreviations seen in CC licenses are...
+      Each breed has its own unique characteristics. You can explore detailed pages about:
     </p>
 
     <ul class="text">
-    <li>SA (share alike)</li>
-    <li>BY (attribution required)</li>
-    <li>NC (non-commercial)</li>
-    </ul>
+        <li>Golden Retriever – Friendly, loyal, and great family companions.</li> 
+        <li>German Shepherd – Intelligent, confident, and highly trainable working dogs.</li>
+        <li>Border Collie – Energetic, incredibly smart, and perfect for active owners.</li> </ul>
+
+    <p> Choosing the right dog is an important decision. Learning about each breed's temperament, care requirements, and lifestyle needs can help you decide which one is the best fit for your home. </p>
 
     <p>
-        Many government organisations and Schools in New Zealand are Creative Commons organisations.  This means that work created by employees will be CC licensed.
-    </p>
-
-    <p>
-        Please vist the links page to find sources of CC works and tools for correctly attributing these materials.
-    </p>  
-    </div>  <!-- / info text div -->
+       Please Visit our breed pages to discover more facts, care tips, and information about these amazing dogs.
     </div>  <!-- / main div -->
     

@@ -9,12 +9,12 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Creative Commons Showcase">
-    <meta name="keywords" content="Creative Commons, images, gallery">
+    <meta name="description" content="Different Dog Breeds">
+    <meta name="keywords" content="Dogs, dog breeds, puppy, images, gallery">
     <meta name="author" content="Georgia Pemberton">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <title>Creative Commons Showcase</title>
+    <title>Dog Breeds</title>
     
     <!-- Edit the link below / replace with your chosen google font -->
     <link href="https://fonts.googleapis.com/css?family=Lato%7cUbuntu" rel="stylesheet"> 
@@ -39,7 +39,7 @@
 <div class="wrapper">
 
     <div class="logo">
-        <a href="index.php"><img class="responsive" src="images/sphere_logo.png" alt="s" /></a>
+        <a href="index.php"><img class="responsive" src="images/dog_logo.png" alt="s" /></a>
     </div> <!-- / logo-->
 
     <div class="top-title">
@@ -88,7 +88,7 @@
         
 
     <div class="box footer">
-        CC Miss Gottschalk 2021
+        CC Georgia Pemberton 2026
     </div>    <!-- / footer -->
 
 </div>  <!-- / wrapper  -->

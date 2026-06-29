@@ -29,14 +29,14 @@ input {
 button {
     padding: 20px;
     transition-duration: 0.4s;
-    background-color: #f8722a;
+    background-color: #eb93bc;
     border-radius: 5px;
     margin:auto;
     width: 90%;
 }
 
 button:hover {
-    background-color: #bc4f8c; 
+    background-color: #87b37f; 
     color: white;
   }
 
