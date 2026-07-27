@@ -43,7 +43,7 @@
     </div> <!-- / logo-->
 
     <div class="top-title">
-        <h2>CC Showcase</h2>
+        <h2>Different Dog Breeds</h2>
     </div>  <!-- / top title -->
 
     <div class="header">
@@ -56,9 +56,9 @@
                 <li><a class="nav" href="index.php">Home</a></li>
                 <li><a class="nav dropbtn" href="#">Gallery <i class="fa fa-chevron-down"></i></a>
                     <ul class="dropdown">
-                        <li><a class="nav" href="index.php?page=insects">Insects</a></li>
-                        <li><a class="nav" href="index.php?page=space">Space</a></li>
-                        <li><a class="nav" href="index.php?page=people">People</a></li>
+                        <li><a class="nav" href="index.php?page=golden_retrievers">Golden Retriever</a></li>
+                        <li><a class="nav" href="index.php?page=german_shepherds">German Shepherd</a></li>
+                        <li><a class="nav" href="index.php?page=border_collies">Border Collie</a></li>
                     </ul>
                 
                 </li>   <!-- / gallery dropdown -->
