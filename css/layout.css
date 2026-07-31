@@ -2,7 +2,7 @@ body {
     margin: auto;
     color: #000;
     font-family: 'Ubuntu', sans-serif;
-    background-image: url(../images/03_desaturated_lightest.jpg);
+    background-color:#86b4c7
 }
 
 
@@ -53,7 +53,7 @@ body {
     grid-area: main;
 
     /* make background semi-transparent */
-    background-color: rgba(255, 255, 255, .5);  
+    background-color: rgba(203, 210, 218, 0.5);  
     border: solid 1px #CCC;
     
 }
@@ -115,15 +115,15 @@ ul.text {
 
 /* Navigation Links */
 a.nav {font-weight: bold;}
-a.nav:link, a.nav:visited {color: #AA0000;} /*dark red */
-a.nav:hover {color: #604830; text-decoration: none;} /* chocolate brown */
+a.nav:link, a.nav:visited {color: #d380a2;} /*light pink */
+a.nav:hover {color: #4e3a27; text-decoration: none;} /* chocolate brown */
 
 
 /* links in page */
 a {font-weight: bold;}
-a:link{color: #AA0000;} 
-a:visited{color: #111177;} 
-a:hover{color: #000;}    
+a:link{color: #d380a2;} 
+a:visited{color: #4c6592;} 
+a:hover{color: #4e3a27;}    
 
 
 @media(max-width: 767px)

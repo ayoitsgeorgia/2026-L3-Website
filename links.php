@@ -10,21 +10,22 @@
         <h3>CC &amp; Sharing Works</h3>
 
         <ul class="text">
-            <li><a class="single-spacing" href="https://creativecommons.org/">Creative Commons</a></li>
-            <li><a class="single-spacing" href="https://creativecommons.org/share-your-work">Share your Work</a></li>
+            <li><a class="single-spacing" href="https://www.bestmatedogtraining.co.nz/golden-retriever-pros-and-cons">Facts you should know before getting a Golden Retriever</a></li>
+            <li><a class="single-spacing" href="hhttps://www.purina.co.nz/find-a-pet/dog/breed-library/border-collie">Facts you should know before getting a German Shepherd</a></li>
+            <li><a class="single-spacing" href="https://bestforpet.co.nz/pet-advice/german-sheperd/">Facts you should know before getting a Border Collie</a></li>
         </ul>
 
         <br /><br />
 
         <h3>Finding (and attributing) Content</h3>
         <ul class="text">
-            <li><a class="single-spacing" href="https://search.creativecommons.org/">Search CC</a></li>
-            <li><a class="single-spacing" href="https://commons.wikimedia.org/">Wikimedia Commons</a></li>
-            <li><a class="single-spacing" href="https://lizenzhinweisgenerator.de/?lang=en">Attribution Generator</a></li>
-            <li><a class="single-spacing" href="https://pixabay.com/">Public Domain images (Pixabay)</a></li>
+            <li><a class="single-spacing" href="https://www.spca.nz/adopt">Looking to adopt?</a></li>
+            <li><a class="single-spacing" href="https://vcahospitals.com/know-your-pet?">Dog health information</a></li>
+            <li><a class="single-spacing" href="https://www.akc.org/expert-advice/training/?">Dog training tips</a></li>
+            <li><a class="single-spacing" href="https://pixabay.com/photos/search/dog/?">Images of different dog breeds</a></li>
         </ul>
 
-        <p>Have a great link that you think we should know about?  Please let us know!</p>
+        <p>Have a great link that you think we should know about?  Please let us know by using the contact page!</p>
 
 
     </div>  <!-- / info text div -->

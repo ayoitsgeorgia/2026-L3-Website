@@ -3,7 +3,7 @@
         <h2>German Shepherd Gallery</h2>
 
     <p>
-        These images are a selection from Wikimedia commons Featured pages on <a href="https://commons.wikimedia.org/wiki/Commons:Featured_pictures/Astronomy">German Shepherds</a>.
+        These images are a selection from pixabay's image pages on <a href="https://pixabay.com/photos/search/german%20shepherd/">German Shepherds</a>.
     </p>
 
     <?php
