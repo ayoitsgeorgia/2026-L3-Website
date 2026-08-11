@@ -43,7 +43,7 @@
     </div> <!-- / logo-->
 
     <div class="top-title">
-        <h2>Different Dog Breeds</h2>
+        <h1>Different Dog Breeds</h1>
     </div>  <!-- / top title -->
 
     <div class="header">

@@ -11,8 +11,7 @@
         The goal is to provide helpful and easy-to-understand information about each breed, including their personality, exercise needs, grooming, training, and common health concerns. Whether you're thinking about getting a dog or simply love learning about them, you'll find useful information here. </p>
     </p>
 
-    <p>
-      Each breed has its own unique characteristics. You can explore detailed pages about:
+    <p>n unique characteristics. You can explore detailed pages about:
     </p>
 
     <ul class="text">
@@ -20,9 +19,14 @@
         <li>German Shepherd – Intelligent, confident, and highly trainable working dogs.</li>
         <li>Border Collie – Energetic, incredibly smart, and perfect for active owners.</li> </ul>
 
-    <p> Choosing the right dog is an important decision. Learning about each breed's temperament, care requirements, and lifestyle needs can help you decide which one is the best fit for your home. </p>
+      Each breed has its ow
+    <p> 
+        Choosing the right dog is an important decision. Learning about each breed's temperament, care requirements, and lifestyle needs can help you decide which one is the best fit for your home. 
+    </p>
 
     <p>
-       Please Visit our breed pages to discover more facts, care tips, and information about these amazing dogs.
+       Please visit the gallery pages to discover more about their looks, attributes, and general information about each breed, or visit the links page to learn more about what dog is right for you!
+    </p>
+    </div> <!-- / info-text -->
     </div>  <!-- / main div -->
     
