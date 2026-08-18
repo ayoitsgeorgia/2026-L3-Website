@@ -7,7 +7,7 @@
             Below are some links that you might find useful...
         </p>
        
-        <h3>CC &amp; Sharing Works</h3>
+        <h3>Fun Facts</h3>
 
         <ul class="text">
             <li><a class="single-spacing" href="https://www.bestmatedogtraining.co.nz/golden-retriever-pros-and-cons" target="_blank">Facts you should know before getting a Golden Retriever</a></li>
@@ -17,7 +17,7 @@
 
         <br /><br />
 
-        <h3>Finding (and attributing) Content</h3>
+        <h3>Adoption, Health Info, Tips & More Images </h3>
         <ul class="text">
             <li><a class="single-spacing" href="https://www.spca.nz/adopt">Looking to adopt?</a></li>
             <li><a class="single-spacing" href="https://vcahospitals.com/know-your-pet?" target="_blank">Dog health information</a></li>

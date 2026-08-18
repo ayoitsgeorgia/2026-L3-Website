@@ -8,10 +8,11 @@
     </p>
 
     <p>
-        The goal is to provide helpful and easy-to-understand information about each breed, including their personality, exercise needs, grooming, training, and common health concerns. Whether you're thinking about getting a dog or simply love learning about them, you'll find useful information here. </p>
+        The goal is to provide helpful and easy-to-understand information about each breed, including their personality, exercise needs, grooming, training, and common health concerns. Whether you're thinking about getting a dog or simply love learning about them, you'll find useful information here.
     </p>
 
-    <p> You can explore detailed pages about:
+    <p>
+        You can explore detailed pages about:
     </p>
 
     <ul class="text">
