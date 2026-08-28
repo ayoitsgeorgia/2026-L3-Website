@@ -11,8 +11,8 @@
 
         <ul class="text">
             <li><a class="single-spacing" href="https://www.bestmatedogtraining.co.nz/golden-retriever-pros-and-cons" target="_blank">Facts you should know before getting a Golden Retriever</a></li>
-            <li><a class="single-spacing" href="hhttps://www.purina.co.nz/find-a-pet/dog/breed-library/border-collie" target="_blank">Facts you should know before getting a German Shepherd</a></li>
-            <li><a class="single-spacing" href="https://bestforpet.co.nz/pet-advice/german-sheperd/" target="_blank">Facts you should know before getting a Border Collie</a></li>
+            <li><a class="single-spacing" href="https://www.purina.co.nz/find-a-pet/dog/breed-library/border-collie" target="_blank">Facts you should know before getting a Border Collie</a></li>
+            <li><a class="single-spacing" href="https://bestforpet.co.nz/pet-advice/german-sheperd/" target="_blank">Facts you should know before getting a German Shepherd</a></li>
         </ul>
 
         <br /><br />
