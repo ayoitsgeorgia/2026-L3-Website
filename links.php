@@ -19,7 +19,7 @@
 
         <h3>Adoption, Health Info, Tips & More Images </h3>
         <ul class="text">
-            <li><a class="single-spacing" href="https://www.spca.nz/adopt">Looking to adopt?</a></li>
+            <li><a class="single-spacing" href="https://www.spca.nz/adopt" target="_blank">Looking to adopt?</a></li>
             <li><a class="single-spacing" href="https://vcahospitals.com/know-your-pet?" target="_blank">Dog health information</a></li>
             <li><a class="single-spacing" href="https://www.akc.org/expert-advice/training/?" target="_blank">Dog training tips</a></li>
             <li><a class="single-spacing" href="https://pixabay.com/photos/search/dog/?" target="_blank">Images of different dog breeds</a></li>
