@@ -66,10 +66,10 @@
                 <li><a class="nav" href="index.php?page=links">Links</a></li>
                 <li><a class="nav" href="index.php?page=contact">Contact</a></li>
             </ul>
-        </div>
+        </div>  <!-- / menu-content -->
 
-        </div>
-    </div>
+        </div>  <!-- / menu header -->
+    </div>  <!-- / header -->
 
     <!-- 'Main Div goes here' -->
     <?php
